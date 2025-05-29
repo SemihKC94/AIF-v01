@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9c37213c67ce842a77fa09287f7f46, type: 3}
+  m_Name: Gathering Tool Database
+  m_EditorClassIdentifier: 
+  _objects:
+  - {fileID: 11400000, guid: 6bf6c6089f14dfc4ab455db0199c8752, type: 2}
+  - {fileID: 11400000, guid: ffc8d4eac0d0a4b44885e1d140ee5d98, type: 2}
+  - {fileID: 11400000, guid: 03985b30cb29b594ba843e96e0424307, type: 2}

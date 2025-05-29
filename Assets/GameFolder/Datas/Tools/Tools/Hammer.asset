@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71dce7a3f4959bc488617ac027b7749d, type: 3}
+  m_Name: Hammer
+  m_EditorClassIdentifier: 
+  <DatabaseIndex>k__BackingField: 2
+  gatheringToolType: {fileID: 11400000, guid: ba25cc20ce0a28d49a463ee755a5618a, type: 2}
+  _toolSprite: {fileID: -2050508052, guid: f371a3bd7100d49ae95087996d7fb25a, type: 3}
+  _gatheringToolPrefab: {fileID: 7502676662662985274, guid: 9212592ddfb3e4340839e50b6a8e2c50,
+    type: 3}
+  _tier: 0
+  _baseDamage: 10
+  _useInterval: 0.75
+  _gatherables:
+  - {fileID: 11400000, guid: 3f54ef746741b2146b0807e5ac60a740, type: 2}

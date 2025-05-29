@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3a8f98e585c3524f8c88740d5e9e063, type: 3}
+  m_Name: SellerFloatingTextDefinition
+  m_EditorClassIdentifier: 
+  <IncomeResource>k__BackingField: {fileID: 11400000, guid: 05d0ddb8343ec81479cd65110fad1f7c,
+    type: 2}
+  <FloatingTextResourceAnimator>k__BackingField: {fileID: 11400000, guid: 50a0c7e60fcbd814fae85dc072b1c2b0,
+    type: 2}
+  <SellableItemDefinitions>k__BackingField:
+  - {fileID: 11400000, guid: 87176394b4ae82d4aafacc5b82c82f76, type: 2}
+  - {fileID: 11400000, guid: 77554300eead08f4fb817f93f40fae17, type: 2}
+  - {fileID: 11400000, guid: 75b2034dab02d1643bf390424e2b10d8, type: 2}
+  <JumpHeight>k__BackingField: 1
+  <JumpDuration>k__BackingField: 0.3

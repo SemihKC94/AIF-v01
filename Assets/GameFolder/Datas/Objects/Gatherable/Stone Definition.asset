@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66530c7456926c24a8097e14bad609f9, type: 3}
+  m_Name: Stone Definition
+  m_EditorClassIdentifier: 
+  <Pool>k__BackingField: {fileID: 11400000, guid: 141d2647bf63f3f4fabff30e840211ae,
+    type: 2}
+  <Variable>k__BackingField: {fileID: 11400000, guid: b506d708c41144f4fa795db841ea54b9,
+    type: 2}
+  <Visible>k__BackingField: 1
+  <Sellable>k__BackingField: 1
+  <SellValue>k__BackingField: 2
+  <HasSprite>k__BackingField: 1
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 805b14216aecc09489648501c7cb4ec4,
+    type: 3}
